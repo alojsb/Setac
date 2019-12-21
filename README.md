@@ -1,4 +1,4 @@
-#Šetač
+# Šetač
 
 Ovo je moj prvi mali projekat u Javascriptu.
 "Šetača" je moguće pomjerati sa WASD, strelicama ili komandama lijevo od glavnog displeja.
